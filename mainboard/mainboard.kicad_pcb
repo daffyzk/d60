@@ -83,9 +83,9 @@
 		(end 19 99)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "0039f726-ea7b-4a7a-a928-4c23ea8dc75f")
 	)
 	(gr_line
@@ -93,9 +93,9 @@
 		(end 141.5 158.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "1ab69abb-9c99-4aed-ae7a-f5d606674530")
 	)
 	(gr_line
@@ -103,9 +103,9 @@
 		(end 125.5 112.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "1e2af791-0aaf-403a-b817-f98942f56416")
 	)
 	(gr_line
@@ -113,9 +113,9 @@
 		(end 141.5 150.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "3b31a280-94a3-470c-804c-919496e65e18")
 	)
 	(gr_line
@@ -123,9 +123,9 @@
 		(end 154 162)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "3cbeaf4f-e438-411a-b252-ecc4a7a90ff5")
 	)
 	(gr_line
@@ -133,9 +133,9 @@
 		(end 151 161)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "403915cd-22f4-44da-802f-15c704838057")
 	)
 	(gr_line
@@ -143,9 +143,9 @@
 		(end 276 162)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "42f2309a-bef3-42cd-835e-b681e42a4c4d")
 	)
 	(gr_line
@@ -153,9 +153,9 @@
 		(end 278 83.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "463fb546-ef25-4308-943b-6f53e3769e80")
 	)
 	(gr_line
@@ -163,9 +163,9 @@
 		(end 155.5 161)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "4e3ef2e5-64f0-4c89-9ce3-d5338d7ca677")
 	)
 	(gr_line
@@ -173,9 +173,9 @@
 		(end 279 83.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "4ef9bc05-544f-48de-81a5-b6917d857c81")
 	)
 	(gr_line
@@ -183,9 +183,9 @@
 		(end 136 141)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "6eb82518-debf-45ad-8ac5-16b08e2cb51d")
 	)
 	(gr_line
@@ -193,9 +193,9 @@
 		(end 155.5 158.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "7391bd74-b9fc-44ce-b439-e94703a25f41")
 	)
 	(gr_line
@@ -203,9 +203,9 @@
 		(end 178.5 157.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "75f35287-4b70-4461-93e8-11a013a2742e")
 	)
 	(gr_line
@@ -213,9 +213,9 @@
 		(end 223.5 162)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "77ac5426-8b07-439d-a141-a30deba15c82")
 	)
 	(gr_line
@@ -223,9 +223,9 @@
 		(end 129 141)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "8f1f8398-14b1-4e9c-b978-0c22f3347faf")
 	)
 	(gr_line
@@ -233,9 +233,9 @@
 		(end 19 16)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "942a58f3-c778-4a4f-8f74-6bce5357db42")
 	)
 	(gr_line
@@ -243,9 +243,9 @@
 		(end 222 158.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "a8fe309a-ca9f-4eaf-b0ae-8769d91f3dae")
 	)
 	(gr_line
@@ -253,9 +253,9 @@
 		(end 179 158.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "b0c6c103-9e7f-4b4e-8da3-ac47e32fd62f")
 	)
 	(gr_line
@@ -263,9 +263,9 @@
 		(end 125.5 99)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "b2bbb601-b080-4b24-90fe-f7412cd01e9d")
 	)
 	(gr_line
@@ -273,9 +273,9 @@
 		(end 156.5 157.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "b4b997c0-b352-431b-9375-dd51629b6a92")
 	)
 	(gr_line
@@ -283,9 +283,9 @@
 		(end 136 148)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "b7d3f8cd-5f81-46a7-9e8b-1be1920729cf")
 	)
 	(gr_line
@@ -293,9 +293,9 @@
 		(end 279 109.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "bf594626-551b-4dc8-b9d1-f1ed2075e4bc")
 	)
 	(gr_line
@@ -303,9 +303,9 @@
 		(end 151 158.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "d19c5748-cfcd-43ed-a44b-6e9a50127212")
 	)
 	(gr_line
@@ -313,9 +313,9 @@
 		(end 129 141)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "ddffa095-3058-4cab-bbf3-1451443e91b6")
 	)
 	(gr_line
@@ -323,9 +323,9 @@
 		(end 138 150.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "e36acc38-d1d6-45f7-bf17-1a890e8ba024")
 	)
 	(gr_line
@@ -333,9 +333,9 @@
 		(end 276 109.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "e516a581-8ceb-4a24-9db7-7104793eef89")
 	)
 	(gr_line
@@ -343,9 +343,9 @@
 		(end 278 16)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "e5934508-09d1-4c2b-89e4-69fade930460")
 	)
 	(gr_line
@@ -353,9 +353,9 @@
 		(end 152.5 162)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "e885cc5b-5300-4d1f-aede-6d549c747d75")
 	)
 	(gr_line
@@ -363,9 +363,9 @@
 		(end 156.5 158.5)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
-		(layer "F.Fab")
+		(layer "Edge.Cuts")
 		(uuid "f7e7ea2c-ae57-4b80-ac18-8fdd9b12fefe")
 	)
 	(embedded_fonts no)
