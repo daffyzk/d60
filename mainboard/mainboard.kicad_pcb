@@ -79,8 +79,8 @@
 	)
 	(net 0 "")
 	(gr_line
-		(start 125.5 99)
-		(end 19 99)
+		(start 172.5 79)
+		(end 279 79)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -89,8 +89,8 @@
 		(uuid "0039f726-ea7b-4a7a-a928-4c23ea8dc75f")
 	)
 	(gr_line
-		(start 151 158.5)
-		(end 141.5 158.5)
+		(start 147 19.5)
+		(end 156.5 19.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -99,8 +99,8 @@
 		(uuid "1ab69abb-9c99-4aed-ae7a-f5d606674530")
 	)
 	(gr_line
-		(start 129 112.5)
-		(end 125.5 112.5)
+		(start 169 65.5)
+		(end 172.5 65.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -108,9 +108,41 @@
 		(layer "Edge.Cuts")
 		(uuid "1e2af791-0aaf-403a-b817-f98942f56416")
 	)
+	(gr_circle
+		(center 117 22)
+		(end 118 22)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "1ecd3fae-b6c5-4c9c-9c89-d8bb9a7d030f")
+	)
 	(gr_line
-		(start 141.5 158.5)
-		(end 141.5 150.5)
+		(start 110.5 162)
+		(end 20 162)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "28aef1bb-8d57-4a48-a43d-26210b1f8f03")
+	)
+	(gr_circle
+		(center 144.717794 17.959105)
+		(end 145.717794 17.959105)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "30a2f4d9-4907-417a-9bda-bbb40f6c9ff4")
+	)
+	(gr_line
+		(start 156.5 19.5)
+		(end 156.5 27.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -119,8 +151,8 @@
 		(uuid "3b31a280-94a3-470c-804c-919496e65e18")
 	)
 	(gr_line
-		(start 155.5 161)
-		(end 154 162)
+		(start 142.5 17)
+		(end 144 16)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -128,9 +160,20 @@
 		(layer "Edge.Cuts")
 		(uuid "3cbeaf4f-e438-411a-b252-ecc4a7a90ff5")
 	)
+	(gr_circle
+		(center 24.5 93.5)
+		(end 25.5 93.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "3d37e958-bb37-4706-a07f-f03ff46e85db")
+	)
 	(gr_line
-		(start 152.5 162)
-		(end 151 161)
+		(start 145.5 16)
+		(end 147 17)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -139,8 +182,8 @@
 		(uuid "403915cd-22f4-44da-802f-15c704838057")
 	)
 	(gr_line
-		(start 276 109.5)
-		(end 276 162)
+		(start 22 68.5)
+		(end 22 16)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -149,8 +192,8 @@
 		(uuid "42f2309a-bef3-42cd-835e-b681e42a4c4d")
 	)
 	(gr_line
-		(start 278 16)
-		(end 278 83.5)
+		(start 20 162)
+		(end 20 94.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -159,8 +202,8 @@
 		(uuid "463fb546-ef25-4308-943b-6f53e3769e80")
 	)
 	(gr_line
-		(start 155.5 158.5)
-		(end 155.5 161)
+		(start 142.5 19.5)
+		(end 142.5 17)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -169,8 +212,8 @@
 		(uuid "4e3ef2e5-64f0-4c89-9ce3-d5338d7ca677")
 	)
 	(gr_line
-		(start 278 83.5)
-		(end 279 83.5)
+		(start 20 94.5)
+		(end 19 94.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -179,8 +222,39 @@
 		(uuid "4ef9bc05-544f-48de-81a5-b6917d857c81")
 	)
 	(gr_line
-		(start 136 148)
-		(end 136 141)
+		(start 149.5 162)
+		(end 149.5 150)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5703f2f5-a747-4e72-92ed-bb1a3eeeb316")
+	)
+	(gr_circle
+		(center 260.5 110)
+		(end 261.5 110)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "5dbe30b6-2d51-4c1c-9abd-4ed885df81be")
+	)
+	(gr_line
+		(start 110.5 150)
+		(end 110.5 162)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "5f929625-10ca-4d5e-afc7-6beb9f957f3a")
+	)
+	(gr_line
+		(start 162 30)
+		(end 162 37)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -188,9 +262,20 @@
 		(layer "Edge.Cuts")
 		(uuid "6eb82518-debf-45ad-8ac5-16b08e2cb51d")
 	)
+	(gr_circle
+		(center 156 156)
+		(end 157 156)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "6ee92030-7038-4116-bd49-f4e0b4c0cf02")
+	)
 	(gr_line
-		(start 156.5 158.5)
-		(end 155.5 158.5)
+		(start 141.5 19.5)
+		(end 142.5 19.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -199,8 +284,8 @@
 		(uuid "7391bd74-b9fc-44ce-b439-e94703a25f41")
 	)
 	(gr_line
-		(start 179 158.5)
-		(end 178.5 157.5)
+		(start 119 19.5)
+		(end 119.5 20.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -209,8 +294,8 @@
 		(uuid "75f35287-4b70-4461-93e8-11a013a2742e")
 	)
 	(gr_line
-		(start 276 162)
-		(end 223.5 162)
+		(start 22 16)
+		(end 74.5 16)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -219,8 +304,18 @@
 		(uuid "77ac5426-8b07-439d-a141-a30deba15c82")
 	)
 	(gr_line
-		(start 136 141)
-		(end 129 141)
+		(start 149.5 162)
+		(end 279 162)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "84979f11-1a2d-4b3f-b86d-b4858442fc5d")
+	)
+	(gr_line
+		(start 162 37)
+		(end 169 37)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -229,8 +324,8 @@
 		(uuid "8f1f8398-14b1-4e9c-b978-0c22f3347faf")
 	)
 	(gr_line
-		(start 19 99)
-		(end 19 16)
+		(start 279 79)
+		(end 279 162)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -238,9 +333,20 @@
 		(layer "Edge.Cuts")
 		(uuid "942a58f3-c778-4a4f-8f74-6bce5357db42")
 	)
+	(gr_circle
+		(center 168 75.5)
+		(end 169 75.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "9504f670-0b29-45f7-8bba-58f27759e482")
+	)
 	(gr_line
-		(start 223.5 162)
-		(end 222 158.5)
+		(start 74.5 16)
+		(end 76 19.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -249,8 +355,8 @@
 		(uuid "a8fe309a-ca9f-4eaf-b0ae-8769d91f3dae")
 	)
 	(gr_line
-		(start 222 158.5)
-		(end 179 158.5)
+		(start 76 19.5)
+		(end 119 19.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -259,8 +365,8 @@
 		(uuid "b0c6c103-9e7f-4b4e-8da3-ac47e32fd62f")
 	)
 	(gr_line
-		(start 125.5 112.5)
-		(end 125.5 99)
+		(start 172.5 65.5)
+		(end 172.5 79)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -269,8 +375,8 @@
 		(uuid "b2bbb601-b080-4b24-90fe-f7412cd01e9d")
 	)
 	(gr_line
-		(start 178.5 157.5)
-		(end 156.5 157.5)
+		(start 119.5 20.5)
+		(end 141.5 20.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -279,8 +385,8 @@
 		(uuid "b4b997c0-b352-431b-9375-dd51629b6a92")
 	)
 	(gr_line
-		(start 138 150.5)
-		(end 136 148)
+		(start 160 27.5)
+		(end 162 30)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -289,8 +395,8 @@
 		(uuid "b7d3f8cd-5f81-46a7-9e8b-1be1920729cf")
 	)
 	(gr_line
-		(start 279 83.5)
-		(end 279 109.5)
+		(start 19 94.5)
+		(end 19 68.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -298,9 +404,20 @@
 		(layer "Edge.Cuts")
 		(uuid "bf594626-551b-4dc8-b9d1-f1ed2075e4bc")
 	)
+	(gr_circle
+		(center 245 82.5)
+		(end 246 82.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "c01f0508-fc9e-4be6-bb34-01d9a4d031f6")
+	)
 	(gr_line
-		(start 151 161)
-		(end 151 158.5)
+		(start 147 17)
+		(end 147 19.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -309,8 +426,18 @@
 		(uuid "d19c5748-cfcd-43ed-a44b-6e9a50127212")
 	)
 	(gr_line
-		(start 129 112.5)
-		(end 129 141)
+		(start 149.5 150)
+		(end 110.5 150)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "d4b60456-67c8-4b84-a221-e0741a3850d5")
+	)
+	(gr_line
+		(start 169 65.5)
+		(end 169 37)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -319,8 +446,8 @@
 		(uuid "ddffa095-3058-4cab-bbf3-1451443e91b6")
 	)
 	(gr_line
-		(start 141.5 150.5)
-		(end 138 150.5)
+		(start 156.5 27.5)
+		(end 160 27.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -329,8 +456,8 @@
 		(uuid "e36acc38-d1d6-45f7-bf17-1a890e8ba024")
 	)
 	(gr_line
-		(start 279 109.5)
-		(end 276 109.5)
+		(start 19 68.5)
+		(end 22 68.5)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -339,18 +466,8 @@
 		(uuid "e516a581-8ceb-4a24-9db7-7104793eef89")
 	)
 	(gr_line
-		(start 19 16)
-		(end 278 16)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e5934508-09d1-4c2b-89e4-69fade930460")
-	)
-	(gr_line
-		(start 154 162)
-		(end 152.5 162)
+		(start 144 16)
+		(end 145.5 16)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -359,8 +476,8 @@
 		(uuid "e885cc5b-5300-4d1f-aede-6d549c747d75")
 	)
 	(gr_line
-		(start 156.5 157.5)
-		(end 156.5 158.5)
+		(start 141.5 20.5)
+		(end 141.5 19.5)
 		(stroke
 			(width 0.1)
 			(type solid)
